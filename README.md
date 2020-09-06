@@ -28,4 +28,4 @@ Lines can be drawn for interpretation.
 
 THIS CODE WAS DESING TO RUN IN VERY OLD FIELD LAPTOPS. SO IT IS KIND OF RUDIMENTARY BUT CAN DO ALMOST EVERYTHING YOU MIGHT NEED.
 
-To run, open Seisplot5.m and hit run. Choose the data that contains the data and follow the steps. Remember to check the terminal from instructions. 
+To run, open Seisplot5.m and hit run. Choose the directory that contains the data and follow the steps. Remember to check the terminal from instructions. 
